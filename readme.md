@@ -4,6 +4,9 @@
 * The MQTT input must register to recive all packets -- shellies/shellybutton1-deviceidgoeshere/#
 * Device id can be found in Settings-> Device Info -> Device ID
 
+<h2> To import into node-red open each text file and use the import from clipboard function in node-red </h2>
+
+
 ![User Controls](/Shelly%20Node-Red.JPG)
 
 ![User Controls](/Shelly%20Button1%20Subflow.JPG)
